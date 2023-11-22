@@ -1,7 +1,5 @@
 ### Hi there 👋, my name is Kahaf
 #### I am majoring in Computer Science at Queens College
-![I am majoring in Computer Science at Queens College](https://media.licdn.com/dms/image/D4E16AQHwe5S4XY4z8w/profile-displaybackgroundimage-shrink_350_1400/0/1700597195097?e=1706140800&v=beta&t=h6q2DmnG9QKyKH9XCT_2PyAJtJJ1lFdCPDDzxDxMxyA)
-
 I love learning new technologies, and being able to apply my knowledge from school in a practical setting.
 
 **Languages**: Python | Java | JavaScript | C++ | C
@@ -32,4 +30,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![I am majoring in Computer Science at Queens College](https://media.licdn.com/dms/image/D4E16AQHwe5S4XY4z8w/profile-displaybackgroundimage-shrink_350_1400/0/1700597195097?e=1706140800&v=beta&t=h6q2DmnG9QKyKH9XCT_2PyAJtJJ1lFdCPDDzxDxMxyA)
 -->
