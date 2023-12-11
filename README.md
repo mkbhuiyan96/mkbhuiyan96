@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Kahaf
+### 👋 Hi there! My name is Kahaf, welcome to my GitHub.
 #### I am majoring in Computer Science at Queens College
 I love learning new technologies, and being able to apply my knowledge from school in a practical setting.
 
