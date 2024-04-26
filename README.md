@@ -2,11 +2,10 @@
 #### I am majoring in Computer Science at Queens College
 I love learning new technologies, and being able to apply my knowledge from school in a practical setting.
 
-**Languages**: Python | Java | JavaScript | C++ | C
-**Tools & Libraries**: SQL | Git | pandas | NumPy | Matplotlib | PyTorch | discord.py
+**Languages**: Python | Java | SQL | JavaScript | C++ | C
 
-- 🔭 I’m currently working on improving my skillset 
-- 🌱 I’m currently learning machine learning 
+**Frameworks & Libraries**: Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | PyTorch | Dash | Discord.py | Requests | BeautifulSoup | Asyncio | React | Node.js
+
 - 📫 How to reach me: mkbhuiyan96@gmail.com 
 
 
