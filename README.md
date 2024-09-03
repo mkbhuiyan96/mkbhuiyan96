@@ -1,6 +1,6 @@
 ### 👋 Hi there! My name is Kahaf, welcome to my GitHub.
-#### I am majoring in Computer Science at Queens College
-I love learning new technologies, and being able to apply my knowledge from school in a practical setting.
+#### I am a recent Computer Science graduate from Queens College
+I love learning new technologies and being able to apply my knowledge from school in a practical setting.
 
 **Languages**: Python | Java | SQL | JavaScript | C++ | C
 
